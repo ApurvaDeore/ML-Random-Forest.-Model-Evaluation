@@ -1,0 +1,2 @@
+# ML-Random-Forest.-Model-Evaluation
+-Scraping and parsing reviews from a website and dividing them into positive and negative based on user ratings provided and applying the necessary cleaning and pre-processing steps on the texts (reviews). -Building a classification model to distinguish between positive and negative reviews. -Testing the predictions of the model using appropriate evaluation metrics and plotting the results.
